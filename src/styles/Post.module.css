@@ -1,0 +1,15 @@
+@font-face {
+  font-family: NeueMontreal;
+  src: url("../../fonts/NeueMontreal.ttf");
+}
+
+.authorDetails {
+  font-family: NeueMontreal;
+  font-size: 1.2rem;
+  margin-top: 1rem;
+}
+
+.postDetail {
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgb(151, 150, 150);
+}

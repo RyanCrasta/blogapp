@@ -1,0 +1,26 @@
+[
+  {
+    "tag": "Awareness",
+    "title": "Climate Change",
+    "description": "The concentration of greenhouse gases in the earth’s atmosphere is directly linked to the average global temperature on Earth",
+    "date": "May 1",
+    "image": "https://images.unsplash.com/photo-1552799446-159ba9523315?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "id": "710b962e-041c-11e1-9234-0123456789ab"
+  },
+  {
+    "tag": "Science",
+    "title": "Space Updates",
+    "description": "Chandrayaan-3 would have crashed into a satellite. How Isro saved it",
+    "date": "April 30",
+    "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202308/ezgif-sixteen_nine_246.jpg?size=948:533",
+    "id": "2c5ea4c0-4067-11e9-8bad-9b1deb4d3b7d"
+  },
+  {
+    "tag": "Travel",
+    "title": "Tours of France",
+    "description": "Step into a land of renowned artists, royal crusaders and remarkable cuisine",
+    "date": "April 15",
+    "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?q=80&w=2020&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "id": "6ec0bd7f-11c0-43da-975e-2a8ad9ebae0b"
+  }
+]
